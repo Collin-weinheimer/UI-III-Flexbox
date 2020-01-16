@@ -67,8 +67,8 @@ h1, h2, h3, h4, h5 {
 * { 
 	/* outline: 1px solid red; */
 	outline-offset: -1px;
-	box-sizing: border-box;
 	max-width: 100%;
+	
 	
 	
   }
@@ -117,6 +117,7 @@ h1, h2, h3, h4, h5 {
 	margin-left: 83px;
 	height: 35px;
 	width: 250px;
+	
 }
 
   .top-content {
@@ -247,14 +248,12 @@ justify-content: center;
 }
 
   @media(max-width: 450px) {
-	.button {
-		background-color: blueviolet;
-	}
+
+	
 	.header-image {
 		height: 160px;
 		margin-left: 70%;
 		margin-top: -40%;
-		padding-bottom: px
-		
+	}
 	
 }
